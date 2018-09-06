@@ -12,3 +12,5 @@ Resources repository for SlashZero
 # Get Started!
 
 - https://github.com/rmusser01/Infosec_Reference
+
+- http://opensecuritytraining.info/
